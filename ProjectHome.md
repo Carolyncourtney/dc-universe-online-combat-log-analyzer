@@ -1,0 +1,1 @@
+For the MMORPG DC Universe Online computer game, this tool will parse the combat log text files and give the user data and graphs about how many exobits, collections, weapons, feats, plans, etc they have.  It will display who got what, when, etc.  Written using HTML5 and javascript so it requires a fairly new version of browser.
